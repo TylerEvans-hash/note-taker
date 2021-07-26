@@ -37,4 +37,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - Tyler Evans
 
 ## Deployed Link:
-- 
+- https://tylerevans-hash.github.io/note-taker/
